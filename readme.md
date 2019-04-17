@@ -18,3 +18,15 @@
 ### 工具利用都按照文件夹分类
 - 完全参考 [黑客入门工具合集](./awesome-pentest-cn.md)
 - [原文工具说明](https://github.com/enaqx/awesome-pentest)
+
+
+### CTF工具
+[ctf-tools](https://github.com/zardus/ctf-tools)
+[kali工具清单](https://github.com/xx-zhang/kalitools)
+
+### CTF相关的备忘录
+
+[CTF备忘录](https://github.com/the-champions-of-capua/pen-tool/issues/3)
+
+### 渗透相关学习内容
+- [github搜索排名前几的](https://github.com/search?q=penetration)
